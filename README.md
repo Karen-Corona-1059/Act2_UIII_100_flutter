@@ -1,16 +1,11 @@
-# news_app
+![image](https://github.com/user-attachments/assets/bde49fe3-f736-4baf-92a2-0df8d03438de)
 
-A new Flutter project.
+![image](https://github.com/user-attachments/assets/c8dca7c7-0961-4c1b-a661-49ab65fef7ce)
 
-## Getting Started
+![image](https://github.com/user-attachments/assets/ab1e2745-4b8d-4ac0-8ee4-5e738d628db8)
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/user-attachments/assets/a0a9a0df-a1b8-493f-9119-dbe27febca38)
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/user-attachments/assets/83489dc5-4221-47c8-84ca-0398a6c72fba)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/e969da0e-2115-4013-9e5e-fb66605abf16)
